@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "755570509133",
+    "firebase_url": "https://androidstudio-adb6e-default-rtdb.firebaseio.com",
+    "project_id": "androidstudio-adb6e",
+    "storage_bucket": "androidstudio-adb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755570509133:android:0d194aacd7e6f103162304",
+        "android_client_info": {
+          "package_name": "com.example.atividadesala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTU42VlWPsbHbgShqCFIimOxoGuFWQqVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
